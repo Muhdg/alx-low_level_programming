@@ -4,7 +4,7 @@
  * main - prints alphabets in lower case
  * Return: always 0
  */
-void print_alphabet(void);
+void print_alphabet(void)
 {
 	int n;
 
